@@ -1,5 +1,15 @@
+
+
 .App {
-  text-align: center;
+	
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	border: 2px solid gray;
+	margin : 50px auto;
+	width: 600px;
+	border-radius:5px;
 }
 
 .App-logo {
@@ -30,4 +40,35 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+/*main frame*/
+.mainFrame{
+	text-align: center;
+	border-radius:5px;
+}
+
+/* footer */
+
+.footer{
+	width: 100%;
+	text-align: center;
+	/* margin:50px auto; */
+	display: flex;
+	flex-direction: row; 
+	justify-content: space-between;
+	align-items: center;
+	border-top:2px solid grey;
+	box-sizing: border-box;
+}
+
+.footerItem{
+	margin: 20px;
+}
+
+.footerItem a {
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+	border-radius:5px;
 }

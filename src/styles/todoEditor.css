@@ -1,0 +1,20 @@
+
+
+.tasks-editor{
+	
+	    width: 100%;
+			margin: -2px;
+}
+
+#todo-field{
+
+	border: 2px solid grey;
+	margin: -2px;
+	width: 100%;
+	height:100%;
+	
+	font-size: 24px;
+	
+
+
+}

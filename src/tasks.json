@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"text": "bla",
+		"isActive": true
+	},
+	{
+		"id": 2,
+		"text": "bla bla",
+		"isActive": false
+	},
+	{
+		"id": 3,
+		"text": "bla bla bla",
+		"isActive": false
+	},
+	{
+		"id": 4,
+		"text": "bla bla bla bla bla ",
+		"isActive": true
+	}
+]
